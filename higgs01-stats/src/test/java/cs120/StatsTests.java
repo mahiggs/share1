@@ -5,6 +5,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import cs120.Stats;
+
 /**
  * Comprehensive JUnit4 tests for the Stats class.
  * Covers typical cases, exceptional/edge cases, and all code paths

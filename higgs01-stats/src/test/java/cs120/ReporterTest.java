@@ -7,6 +7,10 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
+import cs120.Reporter;
+import cs120.Statistician;
+import cs120.Stats;
+
 /**
  * Comprehensive JUnit4 tests for the Reporter class.
  * Covers typical cases, exceptional/edge cases, and all code paths.

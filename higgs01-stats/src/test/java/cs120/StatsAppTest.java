@@ -15,6 +15,9 @@ import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
 
+import cs120.NumPrompter;
+import cs120.StatsApp;
+
 /**
  * Comprehensive JUnit4 tests for the StatsApp class.
  * Covers typical cases, exceptional/edge cases, and all code paths.

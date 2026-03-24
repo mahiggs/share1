@@ -12,6 +12,8 @@ import java.util.Scanner;
 import org.junit.Ignore;
 import org.junit.Test;
 
+import cs120.NumPrompter;
+
 /**
  * This JUnit class tests our NumPrompter.  We can test the inputs, outputs, and the
  * values we get back from a working instance of the NumPrompter.
