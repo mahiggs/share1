@@ -20,7 +20,7 @@ public class Stats implements Statistician {
 	 */
 	
 	public int gitPractice() {
-		int gitPract = 0;
+		int gitPract = 2;
 		gitPract++;
 		return gitPract;
 	}
