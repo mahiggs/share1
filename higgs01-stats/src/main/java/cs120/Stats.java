@@ -14,6 +14,16 @@ public class Stats implements Statistician {
 	public Stats(double... nums) {
 		this.nums = nums;
 	}
+	
+	/**
+	 * Added comment to push to Github.
+	 */
+	
+	public int gitPractice() {
+		int gitPract = 0;
+		gitPract++;
+		return gitPract;
+	}
 
 	/**
 	 * Find the minimum value in the array of doubles.
