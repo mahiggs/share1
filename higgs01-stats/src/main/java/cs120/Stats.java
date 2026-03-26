@@ -1,6 +1,9 @@
 package cs120;
 
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -8,6 +11,8 @@ import java.util.Arrays;
  * This class contains methods to perform calculations on an array of doubles.
  */
 public class Stats implements Statistician {
+	
+	private static final Logger logger = LoggerFactory.getLogger(Stats.class);
 	
 	private double[] nums;
 
